@@ -943,6 +943,18 @@ a {
 .cid-sYnrapQYHK .mbr-text {
   color: #cecece;
 }
+.cid-sYo16fYdeY {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: #000000;
+}
+.cid-sYo16fYdeY hr {
+  border: none;
+  color: #cecece;
+  background-color: #cecece;
+  border-radius: 0.5em;
+  height: 1px;
+}
 .cid-sXuGNx1L7R {
   padding-top: 45px;
   padding-bottom: 45px;
@@ -1954,137 +1966,6 @@ a {
   .cid-sXree3Mx1Y .mbr-iconfont {
     font-size: 6rem !important;
   }
-}
-.cid-sXxip8x366 {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-  background-color: #000000;
-}
-.cid-sXxip8x366 hr {
-  border: none;
-  color: #cecece;
-  background-color: #cecece;
-  border-radius: 0.5em;
-  height: 1px;
-}
-.cid-sXrgaUT5qq {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #000000;
-}
-.cid-sXrgaUT5qq .mbr-text {
-  margin: 0;
-}
-.cid-sXrgaUT5qq .text-element {
-  padding: 2rem;
-  background-color: #232323;
-  -webkit-align-items: center;
-  align-items: center;
-  -webkit-justify-content: center;
-  justify-content: center;
-  display: flex;
-}
-.cid-sXrgaUT5qq .row-element,
-.cid-sXrgaUT5qq .image-element {
-  padding: 0;
-}
-.cid-sXrgaUT5qq .image-element {
-  display: flex;
-  -webkit-justify-content: center;
-  justify-content: center;
-}
-.cid-sXrgaUT5qq .image-element .img-wrap {
-  width: 100% !important;
-}
-.cid-sXrgaUT5qq .image-element .img-wrap img {
-  width: 100%;
-  min-height: 100%;
-  object-fit: cover;
-  object-position: center center;
-}
-.cid-sXrgaUT5qq .carousel-item {
-  -webkit-justify-content: center;
-  justify-content: center;
-}
-.cid-sXrgaUT5qq .carousel-item.active,
-.cid-sXrgaUT5qq .carousel-item-next,
-.cid-sXrgaUT5qq .carousel-item-prev {
-  display: flex;
-}
-.cid-sXrgaUT5qq .carousel-indicators {
-  left: 50%;
-  margin: 20px auto 0;
-  align-items: center;
-}
-.cid-sXrgaUT5qq .carousel-indicators .active {
-  opacity: 1;
-  border: 0;
-  background-color: #f7a206;
-}
-.cid-sXrgaUT5qq .carousel-indicators li {
-  height: 15px;
-  width: 15px;
-  border-radius: 50%;
-  transition: opacity .5s;
-  background-color: #000000;
-  font-size: 2rem;
-  opacity: .5;
-  border-width: 0px;
-}
-.cid-sXrgaUT5qq .carousel-indicators li:hover {
-  opacity: 1;
-}
-.cid-sXrgaUT5qq .carousel-controls {
-  display: none;
-}
-@media (max-width: 991px) {
-  .cid-sXrgaUT5qq .carousel-controls {
-    display: block;
-  }
-  .cid-sXrgaUT5qq .carousel-controls a {
-    transition: opacity .5s;
-    font-size: 2rem;
-  }
-  .cid-sXrgaUT5qq .carousel-controls a span {
-    padding: 10px;
-    border-radius: 50%;
-    color: #ffffff;
-    background: #444444;
-    opacity: .9;
-  }
-  .cid-sXrgaUT5qq .carousel-controls a:hover span {
-    opacity: 1;
-  }
-  .cid-sXrgaUT5qq .carousel-indicators {
-    display: none;
-  }
-}
-@media (max-width: 540px) {
-  .cid-sXrgaUT5qq .text-element {
-    padding: 1rem;
-  }
-  .cid-sXrgaUT5qq .carousel-controls {
-    display: none;
-  }
-}
-@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
-  .cid-sXrgaUT5qq .image-element {
-    min-width: 50%;
-  }
-  .cid-sXrgaUT5qq .media-container-row {
-    width: 100%;
-  }
-}
-.cid-sXrgaUT5qq .mbr-subtitle {
-  color: #cecece;
-}
-.cid-sXrgaUT5qq .mbr-title,
-.cid-sXrgaUT5qq .ornament {
-  color: #f8aa1d;
-}
-.cid-sXrgaUT5qq .mbr-text,
-.cid-sXrgaUT5qq .link {
-  color: #9b9b9b;
 }
 .cid-sXxirj6S4k {
   padding-top: 1rem;
@@ -3811,6 +3692,18 @@ a {
 .cid-sXpEvHDs4t .typed-text {
   color: #cecece;
 }
+.cid-sYocLjdvqN {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: #000000;
+}
+.cid-sYocLjdvqN hr {
+  border: none;
+  color: #cecece;
+  background-color: #cecece;
+  border-radius: 0.5em;
+  height: 1px;
+}
 .cid-sXqkjJrtEk {
   padding-top: 105px;
   padding-bottom: 105px;
@@ -3820,7 +3713,7 @@ a {
   max-width: 1500px;
 }
 .cid-sXqkjJrtEk .row {
-  background: #121212;
+  background: #000000;
 }
 .cid-sXqkjJrtEk .img-col {
   padding: 0;
@@ -3858,6 +3751,18 @@ a {
   .cid-sXqkjJrtEk .title-col {
     padding: 2rem 1rem;
   }
+}
+.cid-sYocI4hxXZ {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: #000000;
+}
+.cid-sYocI4hxXZ hr {
+  border: none;
+  color: #cecece;
+  background-color: #cecece;
+  border-radius: 0.5em;
+  height: 1px;
 }
 .cid-sXqeRDSDzm {
   padding-top: 120px;
