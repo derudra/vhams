@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "services.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -18,8 +18,8 @@
         "display2Size": 3,
         "display5Font": "Arvo",
         "display5Size": "1.8",
-        "display7Font": "Roboto Serif",
-        "display7Size": "1.3",
+        "display7Font": "Arvo",
+        "display7Size": "1.1",
         "display4Font": "Playfair Display SC",
         "display4Size": "1",
         "isRoundedButtons": true,
@@ -79,29 +79,6 @@
         "css": "'Arvo', serif",
         "name": "Arvo",
         "url": "https://fonts.googleapis.com/css?family=Arvo:400,400i,700,700i"
-      },
-      {
-        "css": "'NotoSerifDisplay-VariableFont_wdth,wght'",
-        "name": "NotoSerifDisplay-VariableFont_wdth,wght",
-        "url": null,
-        "file": "@PROJECT_PATH@/fonts/NotoSerifDisplay-VariableFont_wdth,wght/font.ttf"
-      },
-      {
-        "css": "'SourceSansPro-Regular'",
-        "name": "SourceSansPro-Regular",
-        "url": null,
-        "file": "@PROJECT_PATH@/fonts/SourceSansPro-Regular/font.ttf"
-      },
-      {
-        "css": "'Hubballi-Regular'",
-        "name": "Hubballi-Regular",
-        "url": null,
-        "file": "@PROJECT_PATH@/fonts/Hubballi-Regular/font.ttf"
-      },
-      {
-        "css": "'Roboto Serif', sans-serif",
-        "name": "Roboto Serif",
-        "url": "https://fonts.googleapis.com/css?family=Roboto+Serif:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i"
       }
     ],
     "uniqCompNum": 118,
